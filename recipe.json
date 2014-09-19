@@ -75,7 +75,11 @@
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
         { "title" : "꽂게무침", "id" : "489885"  },
-        { "title" : "꽂게무침2", "id" : "489885"  }
+        { "title" : "동그랑떙", "id" : "478112"  },
+        { "title" : "메추리알장조림", "id" : "467047"  },
+        { "title" : "잡채", "id" : "467044"  },
+        { "title" : "황태구이", "id" : "467043"  },
+        { "title" : "오이소박이", "id" : "462601"  }
       ]
     }
     
