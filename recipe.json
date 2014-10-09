@@ -4,6 +4,7 @@
       "title" : "황금레시피",
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
+        { "title" : "고등어조림", "id" : "33532895"  },
         { "title" : "오징어볶음", "id" : "33529918"  },
         { "title" : "갈치조림", "id" : "33528615"  },
         { "title" : "탕수육", "id" : "33527144"  },
@@ -74,6 +75,7 @@
       "title" : "찬찬찬 완전정복",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
+        { "title" : "멸치볶음", "id" : "501238"  },
         { "title" : "꽂게무침", "id" : "489885"  },
         { "title" : "동그랑땡", "id" : "478112"  },
         { "title" : "메추리알장조림", "id" : "467047"  },
