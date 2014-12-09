@@ -4,6 +4,11 @@
       "title" : "황금레시피",
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
+        { "title" : "돼지불고기", "id" : "33538719"  },
+        { "title" : "동태찌개", "id" : "33537571"  },
+        { "title" : "배추김치", "id" : "33536673"  },
+        { "title" : "소꼬리찜", "id" : "33535016"  },
+        { "title" : "김치찜", "id" : "33533630"  },
         { "title" : "고등어조림", "id" : "33532895"  },
         { "title" : "오징어볶음", "id" : "33529918"  },
         { "title" : "갈치조림", "id" : "33528615"  },
@@ -75,6 +80,11 @@
       "title" : "찬찬찬 완전정복",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
+        { "title" : "깻잎 김치", "id" : "642957"  },
+        { "title" : "코다리조림", "id" : "536104"  },
+        { "title" : "총각김치", "id" : "526394"  },
+        { "title" : "달걀말이", "id" : "520320"  },
+        { "title" : "꼬막무침", "id" : "509878"  },
         { "title" : "멸치볶음", "id" : "501238"  },
         { "title" : "꽂게무침", "id" : "489885"  },
         { "title" : "동그랑땡", "id" : "478112"  },
