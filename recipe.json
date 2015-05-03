@@ -4,6 +4,8 @@
       "title" : "황금레시피",
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
+        { "title" : "김치닭볶음탕", "id" : "33541013"  },
+        { "title" : "감자탕", "id" : "33539787"  },
         { "title" : "돼지불고기", "id" : "33538719"  },
         { "title" : "동태찌개", "id" : "33537571"  },
         { "title" : "배추김치", "id" : "33536673"  },
