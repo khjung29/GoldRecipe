@@ -82,6 +82,8 @@
       "title" : "찬찬찬 완전정복",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
+        { "title" : "닭강정", "id" : "656442"  },
+        { "title" : "감자볶음", "id" : "651149"  },
         { "title" : "깻잎 김치", "id" : "642957"  },
         { "title" : "코다리조림", "id" : "536104"  },
         { "title" : "총각김치", "id" : "526394"  },
