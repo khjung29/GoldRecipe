@@ -76,8 +76,8 @@
         { "title" : "낙지꼬치전골, 낙지김치죽, 낙지호롱이, 낙지해물파전", "id" : "33104875"  },
         { "title" : "소고기 무국, 문어 소갈비찜, 소고기 편채, 소고기 산적", "id" : "33080344"  }
       ]
-    },
-    
+    }],
+    "chnrecipe" : [
     {
       "title" : "찬찬찬 완전정복",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
