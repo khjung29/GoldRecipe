@@ -1,8 +1,10 @@
 { 
   "recipe" : [
     {
-      "title" : "황금레시피",
+      "title" : "생생정보 황금레시피",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_view.html?bbs_cd=2ts_reallive_bbs14&seq=%s&goto_page=1",
+      "select1" : "#view_cont div",
+      "select2" : "",
       "item" : [
         { "title" : "김치닭볶음탕", "id" : "1072118"  },
         { "title" : "감자탕", "id" : "33539787"  },
