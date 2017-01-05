@@ -96,8 +96,8 @@
     {
       "title" : "생생정보통 찬찬찬 완전정복",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
-        "select1" : "#DocCont p",
-      "select2" : ".0",
+        "select1" : ".view_cont p",
+      "select2" : "",
       "item" : [
         { "title" : "닭강정", "id" : "656442"  },
         { "title" : "감자볶음", "id" : "651149"  },
