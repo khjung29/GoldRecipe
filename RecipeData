@@ -4,7 +4,7 @@
       "title" : "생생정보 황금레시피",
       "fbNativeInterval" : "5",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_view.html?bbs_cd=2ts_reallive_bbs14&seq=%s&goto_page=1",
-      "url2" : "http://www.kbs.co.kr/2tv/sisa/reallive/media/recipe/index.html?bbs_pr=/mode:2/seq:%s/goto_page:1",
+      "url2" : "http://www.kbs.co.kr/2tv/sisa/reallive/media/recipe/index.html?bbs_pr=/mode=2/seq=%s/goto_page=1",
       "select1" : ".view_cont",
       "select2" : "",
       "item":[{"id":"1259409","title":"빈대떡"},{"id":"1256064","title":"갈비탕"},{"id":"1253146","title":"프렌치토스트 & 토스트"},{"id":"1249960","title":"성게미역국 & 들깨미역국"},{"id":"1247826","title":"두릅된장무침 & 두릅장아찌 & 두릅베이컨말이"},{"id":"1245762","title":"아보카도 명란 비빔밥"},{"id":"1242888","title":"만능 콩나물찜"},{"id":"1240260","title":"충무김밥"},{"id":"1233587","title":"바지락술찜&명란달걀말이"},{"id":"1229608","title":"제철 밑반찬(달래 느타리 초무침, 달래장, 표고버섯 소고기볶음)"},{"id":"1226732","title":"짜장"},{"id":"1223498","title":"반숙 오므라이스"},{"id":"1217603","title":"맑은 곰탕"},{"id":"1207430","title":"만능 생선 무조림"},{"id":"1203328","title":"닭개장"},{"id":"1201072","title":"북엇국"},{"id":"1199548","title":"동지팥죽 & 팥칼국수"},{"id":"1197460","title":"서울식 불고기"},{"id":"1194925","title":"의정부 부대찌개"},{"id":"1192848","title":"소고기 볶은고추장"},{"id":"1190446","title":"갓김치 & 꼬막무침"},{"id":"1186292","title":"짜글이찌개 & 버섯전"},{"id":"1184016","title":"무생채&무나물&
