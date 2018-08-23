@@ -3,6 +3,7 @@
    {
       "title" : "생생정보 황금레시피",
       "fbNativeInterval" : "5",
+      "fbNativeReload" : "true",
       "bbs_id" : "T2014-0844-04-70635",
       "page" : 1,
       "page_size" : 500,
@@ -19,6 +20,7 @@
     {
       "title" : "생생정보 찬찬찬 완전정복",
       "fbNativeInterval" : "5",
+      "fbNativeReload" : "true",
        "bbs_id" : "T2014-0844-04-308672",
       "page" : 1,
       "page_size" : 500,
