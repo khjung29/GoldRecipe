@@ -11,7 +11,7 @@
       "fbNativeReload" : "true",
       "bbs_id" : "T2014-0844-04-70635",
       "page" : 1,
-      "page_size" : 500,
+      "page_size" : 20,
       "check_ver" : "1.5",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_view.html?bbs_cd=2ts_reallive_bbs14&seq=%s&goto_page=1",
       "url2" : "http://www.kbs.co.kr/2tv/sisa/reallive/media/recipe/index.html?bbs_pr=/mode:2/seq:%s/goto_page:1",
